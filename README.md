@@ -1,5 +1,5 @@
 # 💫 About Me:
-Interested in the computers
+Interested in computers
 
 
 ## 🌐 Socials:
@@ -11,8 +11,8 @@ Interested in the computers
 # 📊 GitHub Stats:
 <table>
 <tr>
-<td><img src="https://github-readme-stats.shion.dev/api?username=erfanium-79&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true" /></td>
-<td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=erfanium-79&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></td>
+<td><img src="https://github-readme-stats.shion.dev/api?username=erfanium-79&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&card_width=400" /></td>
+<td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=erfanium-79&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=400&langs_count=8" /></td>
 </tr>
 </table>
 
